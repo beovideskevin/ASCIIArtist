@@ -1,50 +1,11 @@
-# Welcome to your Expo app 👋
+# ASCII artist
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+I forgot a long time ago if I’m a programmer who learned how to make art, or an artist who learned how to code. In a way, I do exactly what many other artists do, copy from reality. But I designed my own brush; I created the process to express myself.
 
-## Get started
+Check out my art gallery: [https://www.eldiletante.com](https://www.eldiletante.com)
 
-1. Install dependencies
+The algorithm I used to create these images is new and produces a fresh and modern aesthetic. All the photos were processed with a special application I designed and programmed. The technique used is called ASCII art, but with the help of new code libraries I took it to the next level. The resulting images are more pictorial than previous text art works.
 
-   ```bash
-   npm install
-   ```
+This allows me to address, from an interdisciplinary perspective that includes literature and photography, the intersection between imitation and representation. In essence, I explore sensorial perception in a game of seduction and distances, in which the spectator must step away to recover the closeness to the images. I also focus on the unconcealment of the communicational logic underneath the digital technologies, and the underlying code of the digital images.
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+The code in this repo uses the same algorithm I programmed to make all my artwork. The original version was a PWA. But now I built this application so I can release it to the app store and share this artistic technique with all of you.
