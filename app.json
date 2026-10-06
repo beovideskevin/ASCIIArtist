@@ -42,7 +42,7 @@
       [
         "expo-screen-orientation",
         {
-          "initialOrientation": "DEFAULT"
+          "initialOrientation": "PORTRAIT"
         }
       ],
       [
@@ -52,7 +52,8 @@
           "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
           "recordAudioAndroid": true
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
